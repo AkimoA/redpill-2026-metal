@@ -125,7 +125,7 @@ Free software under the GNU General Public License v3.0 or later. See `LICENSE.h
 - 2016 px3 (rr@rdsroot.net) - first modernization
 - Jason Short - macOS 10.15 compatibility ([RedPill2](https://github.com/jasonshortphd/RedPill2))
 - 2025 AkimoA - macOS 26 compatibility and legacyScreenSaver workaround from the Aerial project ([RedPill-2025](https://github.com/AkimoA/RedPill-2025))
-- 2025 AkimoA & Claude - macOS 27 compatibility Metal port of the renderer
+- 2026 AkimoA & Claude - macOS 27 compatibility Metal port of the renderer
 
 ## Links
 
