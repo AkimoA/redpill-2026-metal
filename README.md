@@ -1,4 +1,4 @@
-# RedPill-2026 (Metal)
+# RedPill 2026 (Metal)
 
 A 3D "Matrix" digital rain screensaver for macOS, rendered with Metal.
 
@@ -37,7 +37,7 @@ Differences:
 
 ## Installation
 
-1. Download `RedPill.saver` from [Releases](https://github.com/AkimoA/RedPill-2025/releases) or build it (see below)
+1. Download `RedPill.saver` from [Releases](https://github.com/AkimoA/redpill-2026-metal/releases) or build it (see below)
 2. Double-click `RedPill.saver` to install, or copy it to:
 
 ```
@@ -59,8 +59,8 @@ The build is unsigned. To allow it:
 ## Building from source
 
 ```
-git clone https://github.com/AkimoA/RedPill-2025.git
-cd RedPill-2025
+git clone https://github.com/AkimoA/redpill-2026-metal.git
+cd redpill-2026-metal
 open RedPill.xcodeproj
 ```
 
@@ -115,10 +115,11 @@ Free software under the GNU General Public License v3.0 or later. See `LICENSE.h
 - 2016 px3 (rr@rdsroot.net) - first modernization
 - Jason Short - macOS 10.15 compatibility ([RedPill2](https://github.com/jasonshortphd/RedPill2))
 - 2025 AkimoA - macOS 26 compatibility and legacyScreenSaver workaround from the Aerial project ([RedPill-2025](https://github.com/AkimoA/RedPill-2025))
-- 2026 AkimoA & Claude - Metal port of the renderer and macOS 27 compatibility
+- 2025 AkimoA & Claude - macOS 27 compatibility Metal port of the renderer
 
 ## Links
 
-- Original fork: https://github.com/AkimoA/RedPill-2025
+- This repo: https://github.com/AkimoA/redpill-2026-metal
+- OpenGL version: https://github.com/AkimoA/RedPill-2025
 - Previous fork: https://github.com/jasonshortphd/RedPill2
-- Issues: https://github.com/AkimoA/RedPill-2025/issues
+- Issues: https://github.com/AkimoA/redpill-2026-metal/issues
