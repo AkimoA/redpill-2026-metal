@@ -2,6 +2,16 @@
 
 A 3D "Matrix" digital rain screensaver for macOS, rendered with Metal.
 
+
+[![RedPill-2026-Metal Demo Video](https://img.youtube.com/vi/dM-aSSvJqhg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dM-aSSvJqhg)
+
+
+![Matrix Digital Rain](https://img.shields.io/badge/Matrix-Digital%20Rain-green?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-13.0%2B-blue?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-arm64%20%7C%20x86__64-orange?style=for-the-badge)
+
+
+
 This is the Metal port of [AkimoA/RedPill-2025](https://github.com/AkimoA/RedPill-2025), which is a fork of [Jason Short's RedPill2](https://github.com/jasonshortphd/RedPill2). The OpenGL renderer was replaced by Metal. Animation logic, preferences and look are unchanged.
 
 ## Requirements
